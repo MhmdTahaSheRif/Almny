@@ -1,4 +1,4 @@
-# ع - lmny 
+# ع-lmny 
 
 <img align="center" width="80%" src="https://github.com/MhmdTahaSheRif/Almny/blob/main/assets/img/Screenshot.png.jpg">
 
