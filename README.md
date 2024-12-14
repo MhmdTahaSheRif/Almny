@@ -16,5 +16,5 @@ Javascript, HTML, CSS, JavaScript, Bootstrap ...
 
 ## ✨ Live Demo
 
-Explore the interactive features and dynamic elements of ISLAMIC by visiting the hosted page on Github:
-[ISLAMIC Page](https://mhmdtahasherif.github.io/Almny/)
+Explore the interactive features and dynamic elements of Almny by visiting the hosted page on Github:
+[Almny Page](https://mhmdtahasherif.github.io/Almny/)
