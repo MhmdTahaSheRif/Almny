@@ -1,6 +1,6 @@
 # ع-lmny 
 
-<img align="center" width="80%" src="https://github.com/MhmdTahaSheRif/Almny/blob/main//img/Screenshot.png">
+<img align="center" width="80%" src="https://github.com/MhmdTahaSheRif/Almny/blob/assets/img/Screenshot.png">
 
 ## 🚀 About Me
 I'm Mohamed Taha Frontend web developer...
